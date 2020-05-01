@@ -1,2 +1,0 @@
-# sequalize
-Created with CodeSandbox
